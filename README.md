@@ -5,7 +5,7 @@ Public documentation for newcomers
 1. Signup to GitHub: https://github.com/join
 2. For username prefix you 3 letter AD user with `tms-`, e.g. `tms-xyz`
 3. For email use `@timemsystem.com`, e.g. `xyz@timemsystem.com`
-4. After signup be sure to enable 2FA (2 factor authentication): https://github.com/settings/security
+4. After signup be sure to enable 2FA (2 factor authentication), using e.g. [MS Authenticator App](https://www.microsoft.com/en-us/account/authenticator#getapp): https://github.com/settings/security
 5. Ask an organization owner to be invited to the GitHub organization (https://github.com/TIMEmSYSTEM)
 
 ## View developer documentation
